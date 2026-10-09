@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "accounts-worker",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
